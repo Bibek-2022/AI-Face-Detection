@@ -67,7 +67,7 @@ button {
 }
 
 .container {
-  height: calc(100vh - 50px);
+  height: 80vh;
   display: flex;
   align-items: center;
   justify-content: space-around;

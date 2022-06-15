@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./app.css";
-import Navbar from "./components/Navbar";
+import { Navbar } from "./components/Navbar";
 import NewPost from "./components/NewPost";
 
 function App() {
